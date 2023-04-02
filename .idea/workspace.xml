@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61f18e8-5944-4e3f-8696-60bc3d86d79c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TDD Practica Coche.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/TestCoche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="c61f18e8-5944-4e3f-8696-60bc3d86d79c" name="Changes" comment="Nuevo coche project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,58 +29,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero">
-    <configuration name="TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero_David_H">
+    <configuration name="TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta_David_H" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCoche" />
-      <option name="METHOD_NAME" value="test_al_acelerar_un_coche_su_velocidad_aumenta" />
+      <option name="METHOD_NAME" value="test_al_acelerar_un_coche_su_velocidad_aumenta_David_H" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoche.test_al_crear_coche_su_velocidad_es_cero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCoche.test_al_crear_coche_su_velocidad_es_cero_David_H" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCoche" />
-      <option name="METHOD_NAME" value="test_al_crear_coche_su_velocidad_es_cero" />
+      <option name="METHOD_NAME" value="test_al_crear_coche_su_velocidad_es_cero_David_H" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye_David_H" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCoche" />
-      <option name="METHOD_NAME" value="test_al_decelerar_un_coche_su_velocidad_disminuye" />
+      <option name="METHOD_NAME" value="test_al_decelerar_un_coche_su_velocidad_disminuye_David_H" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero_David_H" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCoche" />
-      <option name="METHOD_NAME" value="test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" />
+      <option name="METHOD_NAME" value="test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero_David_H" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,10 +98,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero" />
-        <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye" />
-        <item itemvalue="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta" />
-        <item itemvalue="JUnit.TestCoche.test_al_crear_coche_su_velocidad_es_cero" />
+        <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_no_puede_ser_menor_que_cero_David_H" />
+        <item itemvalue="JUnit.TestCoche.test_al_decelerar_un_coche_su_velocidad_disminuye_David_H" />
+        <item itemvalue="JUnit.TestCoche.test_al_acelerar_un_coche_su_velocidad_aumenta_David_H" />
+        <item itemvalue="JUnit.TestCoche.test_al_crear_coche_su_velocidad_es_cero_David_H" />
         <item itemvalue="JUnit.TestCoche.test_crear_coche" />
       </list>
     </recent_temporary>
@@ -121,8 +114,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680423596627</updated>
-      <workItem from="1680423598193" duration="2236000" />
+      <workItem from="1680423598193" duration="2492000" />
+      <workItem from="1680452718594" duration="347000" />
     </task>
+    <task id="LOCAL-00001" summary="Nuevo coche project">
+      <created>1680426002204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680426002204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nuevo coche project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuevo coche project" />
   </component>
 </project>
